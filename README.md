@@ -8,7 +8,7 @@ This is a simple Todo app built using Flutter and Riverpod, demonstrating how to
 
 1. Clone this repository to your local machine.
 ```
-git clone https://github.com/IsaiasCuvula/flutter_riverpod_todo_app
+git clone https://github.com/sithvothykiv/flutter_riverpod_todo.git
 ```
 2. Ensure you have Flutter and Dart installed on your development environment.
 3. Run ```flutter pub get``` to fetch and install the required dependencies.
